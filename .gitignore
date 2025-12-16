@@ -1,6 +1,9 @@
 # Turbo module
 testlib/
 
+# example app
+example/ 
+
 # OSX
 #
 .DS_Store
